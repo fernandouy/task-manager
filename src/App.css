@@ -1,0 +1,3 @@
+.task > ::-webkit-scrollbar-thumb {
+  @apply bg-sky-500 rounded-full
+}
